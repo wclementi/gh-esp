@@ -1,4 +1,4 @@
-GAME HACKING STUDY PROCECT
+GAME HACKING STUDY PROJECT
 
 ![s1](https://user-images.githubusercontent.com/76878386/201224226-2eb475e7-f464-4b0e-9ac1-da7b8c64c08f.png)
 
